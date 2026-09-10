@@ -1,4 +1,4 @@
-# MD Studio v1.0.0
+# MD-Studio v1.0.0
 
 An offline Markdown editor with live preview, formatting tools, and ready-to-use testing templates. Open one HTML file in your browser—no installation or build step required.
 
@@ -35,7 +35,7 @@ The HTML embeds its logo, favicon, styles, and scripts. Downloading the HTML alo
 ## Files
 
 ```text
-md-studio/
+MD-Studio/
 ├── MD-Studio-v1.0.0.html
 └── README.md
 ```
@@ -48,28 +48,4 @@ md-studio/
 
 ## License
 
-Released under the MIT License. The full license is included here and inside the standalone HTML.
-
-```text
-MIT License
-
-Copyright (c) 2026 Manjunath N P
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+MD-Studio identifies its application source as MIT licensed. The included third-party libraries and brand marks retain their respective licences and rights.
