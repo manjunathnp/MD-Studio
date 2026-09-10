@@ -8,7 +8,7 @@ An offline Markdown editor with live preview, formatting tools, and ready-to-use
 
 ![MD-Studio editor showing a test plan](assets/screenshot.png)
 
-*Screenshot captured before the v1.0.0 branding update.*
+*MD-Studio’s side-by-side workspace: write Markdown on the left and see the formatted preview on the right.*
 
 ## Get started
 
