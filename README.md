@@ -12,7 +12,7 @@ MD-Studio v1.0.0 screenshot
 
 ## Get started
 
-1. Download [MD-Studio-v1.0.0.html](https://github.com/manjunathnp/MD-Studio/releases/download/v1.0.0/MD-Studio-v1.0.0.html).
+1. Download [MD-Studio-v1.0.0.html](https://github.com/manjunathnp/MD-Studio/releases/download/v1.0.0/MD-Studio-v1.0.0.html) from the [v1.0.0 release](https://github.com/manjunathnp/MD-Studio/releases/tag/v1.0.0).
 2. Open it in a modern desktop browser.
 3. Type Markdown, open a `.md`, `.markdown`, or `.txt` file, or choose a template.
 4. Export your work to keep a separate copy.
