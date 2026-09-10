@@ -12,7 +12,7 @@ MD-Studio v1.0.0 screenshot
 
 ## Get started
 
-1. Download the latest committed [MD-Studio-v1.0.0.html](https://raw.githubusercontent.com/manjunathnp/MD-Studio/main/MD-Studio-v1.0.0.html) (save the page as `.html` if your browser displays its source). For the fixed release download, use the [v1.0.0 release](https://github.com/manjunathnp/MD-Studio/releases/tag/v1.0.0).
+1. Download [MD-Studio-v1.0.0.html](https://github.com/manjunathnp/MD-Studio/releases/download/v1.0.0/MD-Studio-v1.0.0.html) from the [v1.0.0 release](https://github.com/manjunathnp/MD-Studio/releases/tag/v1.0.0).
 2. Open it in a modern desktop browser.
 3. Type Markdown, open a `.md`, `.markdown`, or `.txt` file, or choose a template.
 4. Export your work to keep a separate copy.
@@ -60,4 +60,4 @@ MD-Studio identifies its application source as MIT licensed. The included third-
 
 ## Publishing checks
 
-The primary download follows `main`; release attachments are separate snapshots and do not update when code is pushed. When publishing an HTML update, upload the intended release asset, download it through the public release link, and verify its SHA-256 matches the HTML from the intended commit before announcing the release.
+The primary download uses a release attachment so the browser downloads the HTML directly. Release attachments do not update when code is pushed. When publishing an HTML update, upload the intended release asset, download it through the public release link, and verify its SHA-256 matches the HTML from the intended commit before announcing the release.
